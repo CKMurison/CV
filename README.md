@@ -9,10 +9,45 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Work Experience
+## Work Experience ##
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+### Dough Loco/ Weirdoughs Pizza (April 2021 - Dec 2021) ###  
+#### Pizza Chef/Kitchen Porter ####
+
+Worked as part of a small team with Dough Loco pizzeria, a Neapolitan pizza startup that transitioned from a small takeaway to one of Lincoln's best-rated restaurants on Trip Advisor
+
+* Working the ovens
+* Stretching dough
+* Prepping ingredients 
+* Made final touches on pizzas before service 
+* General cleaning duties (sweeping, mopping, washing dishes, etc)
+
+### Business Owner - The Wojak Company (March 2021 - Dec 2021) ###
+
+Off of my success in running an Instagram page, I decided to build a business around it selling mainly clothes and mugs among other things.
+
+* Learnt how to create a website using Shopify
+* Learnt how to fulfil orders automatically
+* Did my own marketing for my products
+* Dealt with any customer enquiries
+* Learnt self-discipline and resourcefulness
+
+### Iocea eCommerce Solutions (June 2021 - March 2022) ###
+
+I was a digital marketing apprentice working alongside a small marketing team learning the ropes whilst creating a wide array of content for various clients.
+
+* Monthly SEO reports for clients gathering data with google analytics, google ads, google page speed insights, Microsoft/Bing ads.
+* Copywriting content for a range of different clients.
+* Designing content for social platforms using Canva
+
+### Street League & The Princes Trust (Jan 2019 - Oct 2019) ###
+
+* Attended sessions on interview techniques and proper workplace behaviour.
+* Represented Street League in football tournaments in London and Paris
+* Visited corporate clients of Street League and spoke with professionals.
+* Attended 1-week radio course with Bauer and Jazz FM via Princes Trust from 1st - 5th of April
+* Worked for 2 weeks at The Financial Times in London and organized meetings and pitched ideas with global division heads. 
+
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
