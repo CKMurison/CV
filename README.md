@@ -7,7 +7,8 @@ I am a recent graduate of *Makers Academy* who fell in love with coding after wa
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Battle Tetris**            | An intense        |
+|                              | 1v1 Tetris game   | JS, Jest, HTML, CSS. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience ##
