@@ -8,21 +8,15 @@ Throughout my journey, I've gained diverse experiences across various industries
 
 ## Projects / Technical Experience
 
-### Acebook
-- Collaborated with a team of 7 to create a Lord of the Rings-themed social media site in a 2-week sprint.
-- Utilized MERN stack for development.
+## Projects
 
-### Battle Tetris
-- Worked with a team over 2 weeks to build a unique 1v1 Tetris game.
-- Technologies: JavaScript, HTML, CSS.
+| Project Name       | Description                                                   | Tech/tools                            |
+| ------------------ | ------------------------------------------------------------- | ------------------------------------- |
+| **Acebook**        | Collaborated with a team of 7 to create a Lord of the Rings-themed social media site in a 2-week sprint. | MERN stack                            |
+| **Battle Tetris**  | Built a unique 1v1 Tetris game over 2 weeks with a team.      | JavaScript, HTML, CSS                 |
+| **Bank Tech Test** | Refactored code for a mock technical test to meet specifications. Practiced Test-Driven Development (TDD). | JavaScript                           |
+| **Sisyphus**       | Created a challenging rage game inspired by the Greek myth of Sisyphus using the Godot engine. | Godot, GDScript                      |
 
-### Bank Tech Test
-- Developed code for a mock technical test and refactored existing code to meet project specifications.
-- Employed JavaScript and practiced Test-Driven Development (TDD) principles.
-
-### Sisyphus (Ongoing)
-- Created a challenging rage game using the Godot engine, inspired by the Greek myth of Sisyphus.
-- Developed using Godot and GDScript.
 
 ## Work Experience
 
