@@ -20,21 +20,29 @@ Throughout my journey, I've gained diverse experiences across various industries
 
 ## Work Experience
 
+### Business Owner - The Wojak Company
+I built my own website using Shopify and sold a variety of merchandise based on my social media page. I designed and marketed all of my own products, and kept track of financials to track the success of the business.
+- Successfully launched and managed an online business, showcasing skills in web design, SEO, and marketing.
+- Demonstrated financial acumen by tracking finances, calculating costs, and ensuring profitability.
+
+### Digital Marketing Apprentice | June 2021 - March 2022
+Iocea eCommerce Solutions
+Developed a product-centric mindset by creating innovative digital marketing material about a diverse range of products for a digital marketing agency based in Lincoln.
+- Produced monthly SEO reports using Google Analytics, Google Ads, and Page Speed Insights.
+- Crafted engaging copy for diverse clients and designed social media content using Canva.
+- Managed ad campaigns to enhance online visibility and drive engagement.
+
 ### Pizza Chef | April 2021 - Dec 2021
 Weirdoughs/Dough Loco
 - Played a key role in establishing a new restaurant by contributing culinary expertise.
 - Managed customer inquiries with professionalism and fostered strong customer relationships.
 - Contributed to a positive team dynamic that made work enjoyable.
 
-### Digital Marketing Apprentice | June 2021 - March 2022
-Iocea eCommerce Solutions
-- Produced monthly SEO reports using Google Analytics, Google Ads, and Page Speed Insights.
-- Crafted engaging copy for diverse clients and designed social media content using Canva.
-- Managed ad campaigns to enhance online visibility and drive engagement.
-
-### Business Owner - The Wojak Company
-- Successfully launched and managed an online business, showcasing skills in web design, SEO, and marketing.
-- Demonstrated financial acumen by tracking finances, calculating costs, and ensuring profitability.
+### Freelance Video Editor & Writer | 2019 | Self-Employed
+Wrote articles and created video content for clients in the tech industry, ranging from phones to drones, making sure to communicate clearly to get the customer the desired product.
+- delivered on deadlines
+- Communicated with clients to meet their needs
+- Showed self-motivation and a strong work ethic
 
 ## Education
 
