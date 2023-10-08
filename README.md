@@ -12,9 +12,9 @@ Throughout my journey, I've gained diverse experiences across various industries
 
 | Project Name       | Description                                                   | Tech/tools                            |
 | ------------------ | ------------------------------------------------------------- | ------------------------------------- |
-| **Acebook**        | Collaborated with a team of 7 to create a Lord of the Rings-themed social media site in a 2-week sprint. | MERN stack                            |
-| **Battle Tetris**  | Built a unique 1v1 Tetris game over 2 weeks with a team.      | JavaScript, HTML, CSS                 |
-| **Bank Tech Test** | Refactored code for a mock technical test to meet specifications. Practiced Test-Driven Development (TDD). | JavaScript                           |
+| **[Acebook]([url](https://github.com/georgebarrett/trelloship_of_the_string))**        | Collaborated with a team of 7 to create a Lord of the Rings-themed social media site in a 2-week sprint. | MERN stack                            |
+| **[Battle Tetris]([url](https://github.com/CKMurison/Tetris))**  | Built a unique 1v1 Tetris game over 2 weeks with a team.      | JavaScript, HTML, CSS                 |
+| **[Bank Tech Test]([url](https://github.com/CKMurison/tech_tests/tree/main/bank_test))** | Refactored code for a mock technical test to meet specifications. Practiced Test-Driven Development (TDD). | JavaScript                           |
 | **Sisyphus**       | Creating a rage game based on the myth of Sisyphus. | Godot, GDScript                      |
 
 
