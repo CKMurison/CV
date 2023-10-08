@@ -39,11 +39,11 @@ Iocea eCommerce Solutions
 ## Education
 
 ### Makers Academy | March 2023 - June 2023
-- Completed a 4-month intensive coding bootcamp focusing on:
-  - Ruby, JavaScript, HTML, CSS
-  - Test-Driven Development (TDD)
-  - Object-Oriented Programming (OOP)
-  - Agile methodology and pair programming
+I recently completed a rigorous 16-week, full-time software development program at Makers Academy, known for its highly competitive selection process and a curriculum that places a strong emphasis on Emotional Intelligence.
+
+During the course, I gained hands-on experience in building full-stack applications using a wide range of technologies and frameworks, including JavaScript, Express, React, Node, MongoDB, Jest, Cypress, Ruby, Sinatra, PostgreSQL, and RSpec.
+
+One of the highlights of my experience was working effectively in team settings, where we followed agile methodologies. This involved daily stand-up meetings, collaborative planning sessions, sprint-based project management, pair programming, and retrospectives. These experiences not only enhanced my skills at working in a team but also gave me an opportunity to develop as an individual.
 
 ## Outside Interests
 
