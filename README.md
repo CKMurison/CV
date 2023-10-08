@@ -45,6 +45,17 @@ During the course, I gained hands-on experience in building full-stack applicati
 
 One of the highlights of my experience was working effectively in team settings, where we followed agile methodologies. This involved daily stand-up meetings, collaborative planning sessions, sprint-based project management, pair programming, and retrospectives. These experiences not only enhanced my skills at working in a team but also gave me an opportunity to develop as an individual.
 
+## Skills
+
+### Perseverance & Dedication
+My passion for coding was kindled by intriguing experiences before and during my time at Makers Academy. This ignited a deep dedication to mastering software development, a commitment that I consistently applied to projects and technical challenges.
+
+### Team work & Communication
+Collaboration was a cornerstone of my journey at Makers Academy. In a team of seven, we successfully built Acebook, a Lord of the Rings-themed social media platform, in just two weeks. This experience underscored the importance of effective communication and pair programming, skills I further honed when presenting to a large audience during the creation of Battle Tetris.
+
+### Adaptability 
+My adaptability has grown through my various experiences in different industries, from self-employment as an entrepreneur to creating digital marketing content and handling customer needs during busy shifts at Iceland. This versatility, combined with my experience at Makers Academy, equips me to tackle evolving challenges in the world of software development.
+
 ## Outside Interests
 
 In my free time, I am passionate about playing the guitar, delving into Greek myths, and indulging in audiobooks, whether they explore Dorian Gray's demise or the fate of humanity in distant futures. I also enjoy gaming and practicing Brazilian Jiu-Jitsu, where I embrace the challenges it brings.
